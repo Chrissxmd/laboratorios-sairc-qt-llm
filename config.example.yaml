@@ -1,0 +1,11 @@
+sql:
+  driver: "ODBC Driver 17 for SQL Server"
+  server: "SERVIDOR_SQL_AUTORIZADO"
+  database: "BDSAIRC_PBI"
+  trusted_connection: true
+  trust_server_certificate: false
+  username: ""
+  password: ""
+
+salidas:
+  carpeta_outputs: "salidas"

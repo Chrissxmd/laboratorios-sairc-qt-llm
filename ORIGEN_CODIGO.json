@@ -1,0 +1,26 @@
+{
+  "fecha": "2026-10-12",
+  "sha256": {
+    "core/ai.py": "8397564232319d1ac95db05996949544286ea00c463c6219ef606b3c55083d16",
+    "core/cache_index.py": "d502a2f60dd262e5402d36e7ba6a19e35e650c7737200cec627b684c938bb0c6",
+    "core/cleanup.py": "a083a795805b62d207df68877d8eb46994463c3a30e9ca218ccb43806c7c1c93",
+    "core/comparador.py": "e357ba8a5d15d952176af9edf700f4d929a61d6e32c8e36e0ba3dd2723849fe9",
+    "core/config.py": "50857526932a8a1d48eec02cf1cfa3cde5657d1ec64ebb48dc9c22b36c3048fe",
+    "core/db_config.py": "df8d9bc460160ecd26d5b4d40bfb25a4e13773a09561569ee063ee3516acbaa9",
+    "core/db_extractor.py": "a520da5edf79e639e9b67df8e0d61f1ea2a4215a72032fc8b59956a0df0d05bd",
+    "core/doc_parser.py": "c0631319afcfcbecad9df9ddc419f4dd4eea713e3c3e4fe88fde1db6f03cdfdf",
+    "core/exporters.py": "eda4d45501f19c843ac76b0d8edfa4dadc182ad18c475756903af88478e15847",
+    "core/normalizer.py": "c1f9d5ebb0488afb55ad3afc8b31559c06eec3b26c792f7fe4d33c5468a47d68",
+    "core/pdf_utils.py": "9071bcc179e8e7bf7acb9197c3774975ceb894b7e8182152725a33c0d3cfc026",
+    "core/persistence.py": "30aec2a68d12a7270d9c4b7821523071782d7d44169e0696d8ba1c4471f25c72",
+    "core/processor.py": "ee335745f7d5d05bec17c989ebe3c7d6dd5b26d2d4e7378ecdc02fabdedc0802",
+    "core/python_extractor.py": "28120b5a5680c8984a4570cae7f6ab5fa6b320d144f02ac2cf9ddc3f8f517178",
+    "core/retry.py": "35aa84fba09ac559306e868435fce03cf94f508e333494727415d296990fb265",
+    "core/sairc_normalizer.py": "5fc5da3462e8b562ede3a8596f1f1a0541975ddccc3531be780555602e752054",
+    "core/workspace.py": "f6d49cf2db72ca9dac92dd8e4e404a2a08d53c674449adc14aa0f7e58dccc864",
+    "core/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "main.py": "75b746a8d05e10081418627827256d9558bfe13ae0af80c193130f5d393b3077",
+    "cli.py": "fbf24dfa24cf58bd97431db0e76f5ee12b5c95cc287515a8359e201889f916b2",
+    "requirements.txt": "d951b78f9c0c3d6768b924d6781f2a03752b9049ff2ce9e408ce62ec744616c4"
+  }
+}

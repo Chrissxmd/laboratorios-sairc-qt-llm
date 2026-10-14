@@ -1,0 +1,30 @@
+{
+  "entorno": {
+    "PySide6": "6.11.1",
+    "openpyxl": "3.1.5",
+    "pandas": "2.3.1",
+    "SQLAlchemy": "2.0.43",
+    "pyodbc": "5.2.0",
+    "PyYAML": "6.0.3"
+  },
+  "dependencias_excluidas_presentes": {
+    "docling": false,
+    "flet": false,
+    "fitz": false,
+    "PIL": false,
+    "torch": false,
+    "transformers": false,
+    "pytesseract": false,
+    "easyocr": false,
+    "paddleocr": false
+  },
+  "modulos_prohibidos_en_paquete": [],
+  "dll_externas_al_entorno": [],
+  "originales_modificados": [],
+  "paquete_auditado": true,
+  "ejecutable": {
+    "archivo": "dist/10.0.7/AuditoriaSAIRC.exe",
+    "bytes": 76692022,
+    "sha256": "66643be3cee3f5396e092b9c190711fc9c293787ec112b45f7bfa9c07675678a"
+  }
+}
